@@ -31,7 +31,7 @@ Before installation, ensure you have:
    ```bash
    git clone <your-repository-url>
    cd frontend-app
-   ```
+   ```..............
 
 2. **Make the installation script executable**:
    ```bash
