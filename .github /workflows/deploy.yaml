@@ -3,6 +3,7 @@ name: First-Time Deploy Frontend via SSM
 on:
   push:
     branches: [main]
+  workflow_dispatch: # Optional: Enables manual "Run workflow" button in GitHub UI
 
 jobs:
   deploy:
