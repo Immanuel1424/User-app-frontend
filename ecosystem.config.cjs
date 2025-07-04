@@ -2,7 +2,7 @@ module.exports = {
   apps: [{
     name: 'user-frontend',
     script: 'serve',
-    args: '-s build -l 3001',
+    args: '-s build -l 3002',
     cwd: '/var/www/user-frontend',
     instances: 1,
     autorestart: true,
